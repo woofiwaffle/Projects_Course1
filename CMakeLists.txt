@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.26)
+project(practical1sem1_LETI_)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_subdirectory(practical1)
+add_subdirectory(practical2)
+add_subdirectory(practical3)
+add_subdirectory(practical4)
+add_subdirectory(practical1_2)
+add_subdirectory(practical2_2)
+add_subdirectory(practical3_2)
+add_subdirectory(course_work1)
+add_subdirectory(course_work2)
+add_subdirectory(Red-BlackTree)
