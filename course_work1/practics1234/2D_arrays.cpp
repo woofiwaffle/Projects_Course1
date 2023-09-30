@@ -315,7 +315,7 @@ int arraysTwoD() {
             }
 
             case '6': {
-                cout << "\nFound determinant:\n";                   /
+                cout << "\nFound determinant:\n";                   
                 srand(time(NULL));
                 int n = 0;
                 cout << "Enter 3:";
