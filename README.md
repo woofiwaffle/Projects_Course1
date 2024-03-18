@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src = "https://img.shields.io/badge/Engine-CLion%202023.2.1-green" alt = "CLion Version">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CLion-2023.2.1-green?style=flat-square&logo=clion&logoColor=green&labelColor=black&color=darkgreen">
 </p>
 
 # LETI course № 1
