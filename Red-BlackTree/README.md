@@ -13,7 +13,3 @@ The program does the following:
    b) the user enters array elements into the console;
 
 2. Output to the console red-black tree. 
-
-## Developer
-
-*  [woofiwaffle](https://github.com/woofiwaffle)
