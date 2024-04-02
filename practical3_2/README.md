@@ -18,7 +18,3 @@ The program should display and describe all intermediate actions.
 ## Documentation 
 
 *  Details in the report
-
-## Developer
-
-*  [woofiwaffle](https://github.com/woofiwaffle)
