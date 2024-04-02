@@ -22,7 +22,3 @@ The required implementation of the program that implements the action.
 ## Documentation
 
 *  Details in the report
-
-## Developer
-
-*  [woofiwaffle](https://github.com/woofiwaffle)
