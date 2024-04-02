@@ -16,7 +16,3 @@
 8. practical3    --- 2D static arrays. Matrices. Pointers
 9. practical3_2  --- Polish notations
 10. practical4   --- Text lines
- 
- ## Developer
-
-*  [woofiwaffle](https://github.com/woofiwaffle)
