@@ -10,7 +10,3 @@ It is necessary to create an array of structures containing information about st
 ## Documentation 
 
 *  Details in the report
-
-## Developer
-
-*  [woofiwaffle](https://github.com/woofiwaffle)
