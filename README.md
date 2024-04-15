@@ -8,10 +8,10 @@
 
 ## About
 
-1. Red-BlackTree --- ```Red-black tree```
-2. course_work1  --- Collection of practical works 1-4
-3. course-work2  --- Binary tree
-4. practical1    --- Data types
+1. ```Red-BlackTree``` --- Red-black tree
+2. ```course_work1```  --- Collection of practical works 1-4
+3. ```course-work2```  --- Binary tree
+4. ```practical1```    --- Data types
 5. practical1_2  --- Array of structures
 6. practical2    --- 2D arrays
 7. practical2_2  --- Doubly linked list
