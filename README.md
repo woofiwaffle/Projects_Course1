@@ -2,12 +2,12 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/CLion-2023.2.1-green?style=plastic&logo=clion&logoColor=green&labelColor=black&color=grey">
 </p>
 
-# LETI course № 1
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=LETI+course+1)](https://git.io/typing-svg)
 
 ## About
 
 1. Red-BlackTree --- Red-black tree
-2. course_work1  --- Course work № 1
+2. course_work1  --- Collection of practical works 1-4
 3. course-work2  --- Binary tree
 4. practical1    --- Data types
 5. practical1_2  --- Array of structures
