@@ -13,8 +13,8 @@
 3. ```course-work2```  --- Binary tree
 4. ```practical1```    --- Data types
 5. ```practical1_2```  --- Basic structures
-6. ```practical2```    --- Static arrays
+6. ```practical2```    --- Static arrays. Shell sort. Bubble sort. Shaker sort. Comb sort. Insert sort
 7. ```practical2_2```  --- Doubly linked list
 8. ```practical3```    --- 2D static arrays. Matrices. Pointers
-9. ```practical3_2```  --- Polish notations
-10. ```practical4```   --- Strings. Text lines
+9. ```practical3_2```  --- Stack. Reverse Polish Notation. Direct Polish Notation
+10. ```practical4```   --- Strings
