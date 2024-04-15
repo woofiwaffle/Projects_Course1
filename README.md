@@ -8,7 +8,7 @@
 
 ## About
 
-1. Red-BlackTree --- '''Red-black tree'''
+1. Red-BlackTree --- ```Red-black tree```
 2. course_work1  --- Collection of practical works 1-4
 3. course-work2  --- Binary tree
 4. practical1    --- Data types
