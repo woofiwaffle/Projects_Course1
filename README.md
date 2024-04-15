@@ -2,7 +2,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/CLion-2023.2.1-green?style=plastic&logo=clion&logoColor=green&labelColor=black&color=grey">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=LETI+course+1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#013220&lines=LETI+course+1)](https://git.io/typing-svg)
 
 ## About
 
