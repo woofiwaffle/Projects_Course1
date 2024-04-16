@@ -1,10 +1,4 @@
-<p align = "center">
-  <img src = "https://img.shields.io/badge/Engine-CLion%202022.2.3-green" alt = "CLion Version">
-</p>
-
-## LETI practical number 3, semester 2
-
-## About
+# Task
 You need to write a program that does the following:
 
 1. Implements the transformation of the entered expression (if variables are used, the user must initialize them).
@@ -18,7 +12,3 @@ The program should display and describe all intermediate actions.
 ## Documentation 
 
 *  Details in the report
-
-## Developer
-
-*  [woofiwaffle](https://github.com/woofiwaffle)
