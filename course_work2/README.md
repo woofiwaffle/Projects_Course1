@@ -1,8 +1,4 @@
-<p align = "center">
-  <img src = "https://img.shields.io/badge/Engine-CLion%202022.2.3-green" alt = "CLion Version">
-</p>
-
-## LETI coursework number 2
+# LETI coursework number 2
 
 ## About
 The program does the following:
