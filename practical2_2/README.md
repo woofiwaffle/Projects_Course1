@@ -1,10 +1,4 @@
-<p align = "center">
-  <img src = "https://img.shields.io/badge/Engine-CLion%202022.2.3-green" alt = "CLion Version">
-</p>
-
-## LETI practical number 2, semester 2
-
-## About
+# About
 The required implementation of the program that implements the action.
 
 1. Formation of a doubly linked list of dimension N, where:
