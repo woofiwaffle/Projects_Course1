@@ -1,8 +1,4 @@
-<p align = "center">
-  <img src = "https://img.shields.io/badge/Engine-CLion%202022.2.3-green" alt = "CLion Version">
-</p>
-
-## About
+# About
 
 The program does the following:
 
