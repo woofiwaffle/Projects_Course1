@@ -2,7 +2,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/CLion-2023.2.1-green?style=plastic&logo=clion&logoColor=green&labelColor=black&color=grey">
 </p>
 
-## LETI course 1
+# LETI course 1
 
 ## About
 
